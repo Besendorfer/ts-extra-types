@@ -1,0 +1,7 @@
+{
+  "name": "ts-extra-types",
+  "version": "0.0.1",
+  "description": "Various useful extra types that haven't been pre-defined by Typescript",
+  "author": "Teancum Besendorfer",
+  "license": "ISC"
+}
